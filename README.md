@@ -1,6 +1,6 @@
 🚀 **Highly Skilled Software Engineer Passionate About Cleantech, Contech, and Proptech** 🌱
 
-👋 Hey there, I'm Thomas(tavice), a software engineer with a burning passion for revolutionizing the cleantech, contech, and proptech industries. I have a proven track record of crafting cutting-edge software solutions and am dedicated to driving innovation in these rapidly-evolving fields.
+👋 Hey there, I am Thomas Avice (tavice!), a software engineer with a burning passion for revolutionizing the cleantech, contech, and proptech industries. I have a proven track record of crafting cutting-edge software solutions and am dedicated to driving innovation in these rapidly-evolving fields.
 
 🌐 **Tech Stack**: Python, JavaScript, React, Mango, Django and more.
 
