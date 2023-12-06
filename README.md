@@ -12,7 +12,7 @@
 
 🌱 **Let's Connect**: I'm open to collaboration, discussions, and connecting with like-minded developers. Feel free to reach out for a chat, project collaboration, or any exciting GitHub adventure!
 
-📫 **Contact Me**: [email](thomasavice.ta@gmail.com) | 🌐 [portfolio](https://thomasavice.com/) | 📱 [Linkedin](https://www.linkedin.com/in/thomasavice/)
+📫 **Contact Me**: [email](mailto:thomasavice.ta@gmail.com?subject=[GitHub]%20Contact%20!%20) | 🌐 [portfolio](https://thomasavice.com/) | 📱 [Linkedin](https://www.linkedin.com/in/thomasavice/)
 
 Let's code together and make an impact! 🚀
 
